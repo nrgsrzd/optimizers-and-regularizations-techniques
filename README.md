@@ -6,5 +6,4 @@ The dataset used in this project is the Fashion MNIST dataset, which consists of
 The dataset is divided into three parts: train, validation, and test. The validation set is used to compare the performance of different models.
 
 # Result
-
-
+![alt text](Results/result.png)
